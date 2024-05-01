@@ -3,6 +3,7 @@
 # 1. Tampilkan semua isi/record tabel!
   ![alt text](https://github.com/DzakiAbiyyu/poto/blob/main/1.jpg?raw=true)
 # 2. Ubah data tanggal lahir mahasiswa yang bernama Ari menjadi: 1979-08-31!
+  ![alt text](https://github.com/DzakiAbiyyu/poto/blob/main/2.jpg?raw=true)
 # 3. Tampilkan satu baris / record data yang telah diubah tadi yaitu record dengan nama Ari saja!
 # 4. Hapus Mahasiswa yang bernama Dina!
 # 5. Tampilkan record atau data yang tanggal kelahirannya lebih dari atau sama dengan 1996-1-2!
